@@ -1,7 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Wejdene</h1>
 <h3 align="center">A passionate Business Intelligence student from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjhxkW5ul_XLzOfFm4ajaLw8KUiNIJJ1icA&s](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)")
+
+<img align="right" alt="Coding" width="400" src="(https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif")>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wejdentrabelsi&label=Profile%20views&color=0e75b6&style=flat" alt="wejdentrabelsi" /> </p>
 
